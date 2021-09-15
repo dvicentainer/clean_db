@@ -1,0 +1,6 @@
+geopandas==0.9.0
+pandas==1.3.0
+psycopg2==2.9.1
+PyInputPlus==0.2.12
+geopandas==0.9.0
+SQLAlchemy==1.4.22
